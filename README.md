@@ -1,5 +1,5 @@
 **Hi, I am Unai.**
-* I am Hardware designer, specialized in VHDL description.
+* I am Hardware Designer, specialized in VHDL description.
 * I am Industrial and Automation Electronics Engineer with a Master's Degree in Advanced Electronic Systems.
 * You can find me on [LinkedIn][linkedin] and [Orcid][orcid].
  
