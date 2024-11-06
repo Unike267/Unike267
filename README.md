@@ -1,6 +1,7 @@
 **Hi, I am Unai.**
 * I am Hardware Designer, specialized in VHDL description.
 * I am Industrial and Automation Electronics Engineer with a Master's Degree in Advanced Electronic Systems.
+* I am currently a PhD student at the University of the Basque Country (UPV/EHU).
 * You can find me on [LinkedIn][linkedin] and [Orcid][orcid].
  
 **My Stats:**
