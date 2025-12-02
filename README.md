@@ -10,11 +10,11 @@
 **My Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unike267&show_icons=true" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unike267&theme=default" alt="GitHub Stats">
 </p>
 
 **My Favorite Languages:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unike267&layout=compact" alt="Top Languages">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unike267&theme=default" alt="Top Languages by Repo">
 </p>
